@@ -24,3 +24,7 @@ Repositorio para probar GitHub Copilot
 ### 5. Generar código inicial con la IA de GitHub Copilot
 
 ![Generación de código con GitHub Copilot](screenshoot/05.png)
+
+### 6. Subir los cambios a GitHub
+
+![Subiendo el código a GitHub](screenshoot/06.png)
